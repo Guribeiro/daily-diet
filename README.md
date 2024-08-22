@@ -1,36 +1,25 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Daily Diet" />
+  <img src="./.github/cover.png" alt="Todo" />
 
   &#xa0;
-
-  <!-- <a href="https://dailydiet.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Daily Diet</h1>
+<h1 align="center">
+ <img src="./.github/logo.svg" alt="Daily Diet" />
+</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Guribeiro/daily-diet?color=1B1D1E">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Guribeiro/daily-diet?color=1B1D1E">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Guribeiro/daily-diet?color=1B1D1E">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/daily-diet?color=56BEB8" /> -->
+  <img alt="License" src="https://img.shields.io/github/license/Guribeiro/daily-diet?color=1B1D1E">
+ 
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Daily Diet 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -39,22 +28,25 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/Guribeiro" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## 🎯 About ##
 
-Describe your project
+Daily Diet é uma aplicação mobile para controle da sua dieta. Nele você pode registrar suas refeições e acompanhar como está seu progresso.
+Esse projeto é um dos desafios da trilha de React Native do Ignite, nosso bootcamp completo de especialização em React, React Native e Node.js.
 
-## :sparkles: Features ##
+## ✨  Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+✔️ Add meals\
+✔️ Update meal details\
+✔️ Remove meals\
+✔️ Save/Fetch from asyncStorage\
+✔️ Statistics about your diet based on your daily meals;
 
-## :rocket: Technologies ##
+## 🚀 Technologies ##
 
 The following tools were used in this project:
 
@@ -64,15 +56,15 @@ The following tools were used in this project:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :white_check_mark: Requirements ##
+## ☑️ Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting ☑️, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## 🏁 Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/daily-diet
+$ git clone https://github.com/Guribeiro/daily-diet
 
 # Access
 $ cd daily-diet
@@ -81,17 +73,16 @@ $ cd daily-diet
 $ yarn
 
 # Run the project
-$ yarn start
+$ npx expo start
 
-# The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## 📝 License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with 💜 by <a href="https://github.com/Guribeiro" target="_blank">Gustavo Henrique Ribeiro Dias</a>
 
 &#xa0;
 
